@@ -1,7 +1,7 @@
 {
   "blacklist": {
         "words": [
-           "fag",
+            "fag",
             "boob",
             "dyke",
             "titties",
@@ -135,7 +135,8 @@
             "masturbate",
             "masterbait",
             "jack off",
-            "cumraid"
-        ]
-    }
+            "cumraid",
+            "cumrade"
+        ],
+  }
 }
