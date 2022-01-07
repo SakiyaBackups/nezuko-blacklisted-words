@@ -1,8 +1,8 @@
-# nezu-blacklisted-words
+# _nezu-blacklisted-words_
 Blacklisted Words on Nezu
 
-## __IMPORTANT__
+## _IMPORTANT_
 A very special thank you to `⸝⸝ {sequoia} Ꮺ#0001` for getting the words in other languages!!
 
-## How to add
+## _How to add_
 Just open up a pull request with the word or words.
