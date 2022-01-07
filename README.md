@@ -1,6 +1,3 @@
-# _nezu-blacklisted-words_
-Blacklisted Words on Nezu
-
 ## _IMPORTANT_
 A very special thank you to `⸝⸝ {sequoia} Ꮺ#0001` for getting the words in other languages!!
 
